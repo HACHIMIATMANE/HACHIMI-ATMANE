@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/atmane-hachimi-25158b294/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="mailto:tonmail@gmail.com" target="_blank">
+  <a href="hachimiatmane03@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
   <a href="https://www.instagram.com/hachimi.atmane/" target="_blank">
@@ -66,7 +66,7 @@ I'm a Data Engineering student at INPT (Rabat, Morocco).<br><br>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="aws logo"  />
+  <img src="https://www.rswebsols.com/wp-content/uploads/2021/04/amazon-web-services-aws-920x613.jpg" height="40" alt="aws logo"  />
 </div>
 
 ###
