@@ -1,50 +1,77 @@
-👋 ### Hello, I'm Aymane Hachimi
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 
-- 🎓 Data Engineering student at INPT Rabat
-- 💻 Passionate about Data Science, Machine Learning, and Artificial Intelligence
-- 🚀 Building intelligent systems, data pipelines, and deploying scalable AI solutions
+###
 
-🔧 # Skills & Expertise
+<div align="center">
+  <a href="https://www.linkedin.com/in/ton-profil-linkedin" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.youtube.com/@ton-chaine" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  </a>
+  <a href="https://twitter.com/ton-profil" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  </a>
+</div>
 
-- Data Engineering : ETL pipelines, Data Cleaning, Data Warehousing, Big Data (Hadoop, Spark)
+###
 
-- Machine Learning & AI : Supervised & Unsupervised Learning, Deep Learning (CNN, RNN, Transformers), NLP
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=tonpseudo.tonpseudo&"  />
+</div>
 
-- Data Visualization : Power BI, Tableau, Metabase, matplotlib, seaborn
+###
 
-- Programming : Python, SQL, Java, Bash
+<h1 align="center">Hey there 👋, I'm Otmane</h1>
 
-- Frameworks & Tools : FastAPI, Flask, TensorFlow, PyTorch, Scikit-learn, Airflow, Docker
+###
 
-- Databases : PostgreSQL, MySQL, MongoDB
+<h3 align="left">👨‍💻 About Me</h3>
 
-- Web Development : HTML, CSS, JavaScript, React.js
+###
 
-- DevOps : Docker, Git/GitHub, CI/CD
+<p align="left">
+I'm a Data Engineering student at INPT (Rabat, Morocco).<br><br>
+- 🔭 Currently working on projects in **Data Engineering, Machine Learning, and AI**.<br>
+- 📚 I’m learning **Big Data frameworks (Hadoop, Spark)** and **Cloud platforms (AWS, GCP, OpenStack)**.<br>
+- ⚡ Passionate about **building intelligent systems** (ETL pipelines, data processing, NLP, computer vision).<br>
+- 🌱 Open to **internships / PFE opportunities starting January**.<br>
+</p>
 
-#📌 Projects
+###
 
-🌦️ ETL Pipeline with Airflow : Extract weather data via API, store in PostgreSQL, visualize with Metabase (Dockerized)
+<h3 align="left">🛠 Languages & Tools</h3>
 
-🤖 AI Chatbot : Legal advisor chatbot for Moroccan users (FastAPI + NLP)
+###
 
-🌍 Satellite Image Analysis : Tree counting and land segmentation with YOLO & U-Net
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" height="40" alt="airflow logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40" alt="kafka logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="aws logo"  />
+</div>
 
-📝 Quiz Generator : Automated content extraction from PDFs/TXT and quiz creation with NLP
+###
 
-🌱 Currently working on
+<h3 align="left">🔥 My Stats :</h3>
 
-Building AI/ML models for real-world applications
+###
 
-Exploring advanced document analysis and multimodal AI
-
-Improving web apps with React + FastAPI
-
-📫 Contact
-
-📧 Email : [your.email@example.com
-]
-
-💼 LinkedIn : linkedin.com/in/aymane-hachimi
-
-🌐 Portfolio : your-portfolio-link
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=tonpseudo&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
