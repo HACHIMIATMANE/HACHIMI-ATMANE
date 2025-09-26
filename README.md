@@ -1,10 +1,10 @@
-###👋 Hello, I'm Aymane Hachimi
+👋 ### Hello, I'm Aymane Hachimi
 
 - 🎓 Data Engineering student at INPT Rabat
 - 💻 Passionate about Data Science, Machine Learning, and Artificial Intelligence
 - 🚀 Building intelligent systems, data pipelines, and deploying scalable AI solutions
 
-#🔧 Skills & Expertise
+🔧 # Skills & Expertise
 
 - Data Engineering : ETL pipelines, Data Cleaning, Data Warehousing, Big Data (Hadoop, Spark)
 
