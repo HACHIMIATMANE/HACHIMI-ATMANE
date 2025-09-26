@@ -1,28 +1,28 @@
-👋 Hello, I'm Aymane Hachimi
+###👋 Hello, I'm Aymane Hachimi
 
-🎓 Data Engineering student at INPT Rabat
-💻 Passionate about Data Science, Machine Learning, and Artificial Intelligence
-🚀 Building intelligent systems, data pipelines, and deploying scalable AI solutions
+- 🎓 Data Engineering student at INPT Rabat
+- 💻 Passionate about Data Science, Machine Learning, and Artificial Intelligence
+- 🚀 Building intelligent systems, data pipelines, and deploying scalable AI solutions
 
-🔧 Skills & Expertise
+#🔧 Skills & Expertise
 
-Data Engineering : ETL pipelines, Data Cleaning, Data Warehousing, Big Data (Hadoop, Spark)
+- Data Engineering : ETL pipelines, Data Cleaning, Data Warehousing, Big Data (Hadoop, Spark)
 
-Machine Learning & AI : Supervised & Unsupervised Learning, Deep Learning (CNN, RNN, Transformers), NLP
+- Machine Learning & AI : Supervised & Unsupervised Learning, Deep Learning (CNN, RNN, Transformers), NLP
 
-Data Visualization : Power BI, Tableau, Metabase, matplotlib, seaborn
+- Data Visualization : Power BI, Tableau, Metabase, matplotlib, seaborn
 
-Programming : Python, SQL, Java, Bash
+- Programming : Python, SQL, Java, Bash
 
-Frameworks & Tools : FastAPI, Flask, TensorFlow, PyTorch, Scikit-learn, Airflow, Docker
+- Frameworks & Tools : FastAPI, Flask, TensorFlow, PyTorch, Scikit-learn, Airflow, Docker
 
-Databases : PostgreSQL, MySQL, MongoDB
+- Databases : PostgreSQL, MySQL, MongoDB
 
-Web Development : HTML, CSS, JavaScript, React.js
+- Web Development : HTML, CSS, JavaScript, React.js
 
-DevOps : Docker, Git/GitHub, CI/CD
+- DevOps : Docker, Git/GitHub, CI/CD
 
-📌 Projects
+#📌 Projects
 
 🌦️ ETL Pipeline with Airflow : Extract weather data via API, store in PostgreSQL, visualize with Metabase (Dockerized)
 
